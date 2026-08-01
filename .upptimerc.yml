@@ -10,8 +10,11 @@ sites:
     url: https://api.insights.eva.vistry.ai/api/health
 
 status-website:
-  # No custom domain yet — served at the repo's default GitHub Pages path.
-  baseUrl: /status
+  # No custom domain yet. Vistry is on GitHub Enterprise Cloud, which serves
+  # private-repo Pages sites from a randomized subdomain-isolation hostname
+  # (e.g. https://<random>.pages.github.io/) rather than the standard
+  # org.github.io/repo path — so baseUrl must be root, not /status.
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/Vistry/status/master/assets/upptime-icon.svg
   name: Eva Status
   introTitle: "**Eva Status** — live availability for Eva Insights, Eva People, and the Eva Insights API."
