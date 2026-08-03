@@ -4,19 +4,19 @@
     "url": "https://insights.eva.vistry.ai",
     "icon": "https://icons.duckduckgo.com/ip3/insights.eva.vistry.ai.ico",
     "slug": "eva-insights",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 157,
-    "timeDay": 137,
-    "timeWeek": 157,
-    "timeMonth": 157,
-    "timeYear": 157,
+    "status": "up",
+    "uptime": "76.59%",
+    "uptimeDay": "37.45%",
+    "uptimeWeek": "76.59%",
+    "uptimeMonth": "76.59%",
+    "uptimeYear": "76.59%",
+    "time": 154,
+    "timeDay": 138,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {
-      "2026-08-03": 1
+      "2026-08-03": 901
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://people.eva.vistry.ai",
     "icon": "https://icons.duckduckgo.com/ip3/people.eva.vistry.ai.ico",
     "slug": "eva-people",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 187,
-    "timeDay": 172,
-    "timeWeek": 187,
-    "timeMonth": 187,
-    "timeYear": 187,
+    "status": "up",
+    "uptime": "76.59%",
+    "uptimeDay": "37.47%",
+    "uptimeWeek": "76.59%",
+    "uptimeMonth": "76.59%",
+    "uptimeYear": "76.59%",
+    "time": 183,
+    "timeDay": 170,
+    "timeWeek": 183,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2026-08-03": 0
+      "2026-08-03": 901
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.insights.eva.vistry.ai/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.insights.eva.vistry.ai.ico",
     "slug": "eva-insights-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 264,
-    "timeWeek": 223,
-    "timeMonth": 223,
-    "timeYear": 223,
+    "status": "up",
+    "uptime": "76.60%",
+    "uptimeDay": "37.48%",
+    "uptimeWeek": "76.60%",
+    "uptimeMonth": "76.60%",
+    "uptimeYear": "76.60%",
+    "time": 219,
+    "timeDay": 241,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
-      "2026-08-03": 0
+      "2026-08-03": 900
     }
   }
 ]
