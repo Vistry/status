@@ -1,7 +1,7 @@
 url: https://api.insights.eva.vistry.ai/api/health
-status: down
-code: 403
-responseTime: 143
-lastUpdated: 2026-08-10T11:42:30.293Z
+status: up
+code: 200
+responseTime: 97
+lastUpdated: 2026-08-10T12:03:05.785Z
 startTime: 2026-08-01T00:37:30.363Z
 generator: Upptime <https://github.com/upptime/upptime>
